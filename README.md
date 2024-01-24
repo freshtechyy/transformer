@@ -8,7 +8,7 @@ This repo shows a PyTorch implementation for transformer from scratch.
 
 ## Usages
 ```bash
-$ git clone
+$ git clone https://github.com/freshtechyy/transformer.git
 $ cd transformer/
 $ python3 transformer.py
 ```
